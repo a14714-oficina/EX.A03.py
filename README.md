@@ -1,2 +1,3 @@
 <h1>OBJETIVO</h1>
-Exercício Resolvidos em sala de aula, utilizando váriaveis, inputs e alinhamento. Com o objetivo de desenvolver um programa em Python que utiliza funções para gerir o stock de materiais escolares de uma escola.
+Desenvolver um programa em Python que utiliza funções para gerir o stock de materiais escolares de uma escola. O programa deverá permitir o registo, consulta e atualização do stock de forma eficiente.
+<h1>PROBLEMA</h1>
